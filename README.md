@@ -22,7 +22,7 @@ Phoenix, AZ is a rapidly growing city. As a consequence for the increase in urba
 ```
 
 ## Data
-**Biodiversity Intactness Index (BII)** data was accessed as a SpatioTemporal Asset Catalog (STAC), through the Microsoft Planetary Computer STAC API. Data can be accessed by importing the `Client` from `pystac_client` and `planetary_computer` packages.
+**Biodiversity Intactness Index (BII)** data was accessed as a SpatioTemporal Asset Catalog (STAC), through the Microsoft Planetary Computer STAC API. Data can be accessed by importing the `Client` from `pystac_client` and `planetary_computer` packages. More information on NetCDF can be found [here]('https://docs.unidata.ucar.edu/netcdf-c/current/index.html')
 
 **Phoenix subdivision border** is a shapefile of the Arizona County subdivision from the [U.S Census Bureau]('https://catalog.data.gov/dataset/tiger-line-shapefile-current-state-arizona-county-subdivision')
 
